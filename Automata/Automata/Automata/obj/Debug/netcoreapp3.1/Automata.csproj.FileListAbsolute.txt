@@ -1,0 +1,13 @@
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\bin\Debug\netcoreapp3.1\Automata.exe
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\bin\Debug\netcoreapp3.1\Automata.deps.json
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\bin\Debug\netcoreapp3.1\Automata.runtimeconfig.json
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\bin\Debug\netcoreapp3.1\Automata.runtimeconfig.dev.json
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\bin\Debug\netcoreapp3.1\Automata.dll
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\bin\Debug\netcoreapp3.1\Automata.pdb
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\obj\Debug\netcoreapp3.1\Automata.csprojAssemblyReference.cache
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\obj\Debug\netcoreapp3.1\Automata.AssemblyInfoInputs.cache
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\obj\Debug\netcoreapp3.1\Automata.AssemblyInfo.cs
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\obj\Debug\netcoreapp3.1\Automata.csproj.CoreCompileInputs.cache
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\obj\Debug\netcoreapp3.1\Automata.dll
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\obj\Debug\netcoreapp3.1\Automata.pdb
+C:\Users\serva\Documents\5to SEMESTRE\LENGUAJES FORMALES Y AUTOMATAS\proyectos\Automata\Automata\Automata\obj\Debug\netcoreapp3.1\Automata.genruntimeconfig.cache
